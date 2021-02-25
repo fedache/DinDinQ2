@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DinDinQ2</string>
+    <string name="dindinn">DINDINN</string>
+    <string name="pizza_item">Pizza</string>
+    <string name="sushi_item">Sushi</string>
+    <string name="drink_item">Drinks</string>
+    <string name="filter">FILTERS</string>
+    <string name="spicy_filter">Spicy</string>
+    <string name="vegan_filter">Vegan</string>
+    <string name="added_1">added +1</string>
+    <string name="go_to_cart_desc">Go to cart</string>
+    <string name="error_network">Something went wrong</string>
+    <string name="unable_to_fetch_items">Unable to fetch food items</string>
+</resources>

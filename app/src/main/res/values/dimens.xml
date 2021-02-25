@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indicator_size">3dp</dimen>
+
+    <dimen name="content_padding_minimum">0.5dp</dimen>
+    <dimen name="content_padding_smaller">4dp</dimen>
+    <dimen name="content_padding_small">8dp</dimen>
+    <dimen name="content_padding_small_negative">-8dp</dimen>
+    <dimen name="content_padding">16dp</dimen>
+    <dimen name="content_padding_bottom">12dp</dimen>
+    <dimen name="content_padding_almost_large">20dp</dimen>
+    <dimen name="content_padding_large">24dp</dimen>
+    <dimen name="content_padding_negative">-16dp</dimen>
+    <dimen name="content_padding_double">32dp</dimen>
+    <dimen name="content_padding_triple">48dp</dimen>
+    <dimen name="input_padding">12dp</dimen>
+</resources>
